@@ -44,7 +44,7 @@ At k=3, the descent stabilizes and continues linearly afterward, forming an elbo
 ### Visualization and Interpretation of the Results
 Let’s plug in, k=3 to K-means and visualize how customer groups are created.
 
-![](customers_clusters.png)
+![Customers Clusters](customers_clusters.png)
 
 Red: Customers who ordered 1 to 13 products, with an average total spending of 600 and an average return rate of 0.0. It makes the most favorable customer group for the company.
 
